@@ -28,7 +28,7 @@
 - 🎓  I'm a third year Computer Science and Engineering student.
 <!-- - 💡  I'm currently working as a Mobile application developer intern at Noob Community.  -->
 - 🌱  I'm on track for learning more about Cybersecurity and Machine Learning.
-- 💼 Any freelance work? Do reach, [email](mailto:cloneartist@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:thatcloneartist@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 <!-- ✍️ In my free time I do freelance photography. -->
 <!-- 💬 Feel free to reach out to me for discussions on the aforementioned topics!-->

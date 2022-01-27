@@ -26,13 +26,12 @@
 ### 👨🏻‍💻 About Me
 <!-- A sophomore student pursuing bachelor's degree in **Computer Science and Engineering** -->
 - 🎓  I'm a third year Computer Science and Engineering student.
-<!-- - 💡  I'm currently working as a Mobile application developer intern at Noob Community.  -->
 - 🌱  I'm on track for learning more about Cybersecurity and Machine Learning.
 - 💼 Any freelance work? Do reach, [email](mailto:thatcloneartist@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 <!-- ✍️ In my free time I do freelance photography. -->
 <!-- 💬 Feel free to reach out to me for discussions on the aforementioned topics!-->
-
+<!-- - 💡  I'm currently working as a Mobile application developer intern at Noob Community.  -->
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  

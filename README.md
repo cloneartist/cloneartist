@@ -3,18 +3,14 @@
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/   ">
-  <img align="left" alt="Adith's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<!-- <a href="https://twitter.com/adith-anandhan">
-  <img align="left" alt="Adith | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/adith-anandhan/">
-  <img align="left" alt="Adith's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="  ">
-  <img align="left" alt="Adith's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<!-- <a href="https://dev.to/adith-anandhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adith-anandhan" height="30" width="40" /></a> -->
+<a href="https://twitter.com/icuriousdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adith-anandhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adith-anandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adith-anandhan" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xxxxxxxx" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/adith-anandhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithanandhan" height="30" width="40" /></a>
+ -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cloneartist.cloneartist)
 [![GitHub Cloneartist](https://img.shields.io/github/followers/cloneartist?label=follow&style=social)](https://github.com/cloneartist)&nbsp;
@@ -22,10 +18,8 @@
 <br />
 
  
-<!-- Hi, I'm [Adith Pozhekadavil Anandhan](https://github.com/cloneartist), a Second year Computer Science and Engineering student from India.-->
 ### 👨🏻‍💻 About Me
-<!-- A sophomore student pursuing bachelor's degree in **Computer Science and Engineering** -->
-- 🎓  I'm a final year Computer Science and Engineering student.
+- 🎓  I'm a Computer Science and Engineering student.
 - 🌱  I'm on track for learning more about Cybersecurity and Machine Learning.
 - 💼 Any freelance work? Do reach, [email](mailto:thatcloneartist@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
